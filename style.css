@@ -1,0 +1,59 @@
+.heading{
+    padding-left:166px;
+    padding-top:20px;
+    padding-bottom:50px;
+    color:#004346;
+}
+
+
+.search-box{
+    display:flex;
+    padding-left:50px;
+   
+}
+
+.search-input{
+    background-color:#EAEAEA;
+    text-align: center;
+    border:none; 
+    width:350px;
+    height:39px; 
+}
+::placeholder {
+    color:#508991;}
+
+.loc-button{
+    background-color: #508991;
+    color:#FDFDFF;
+    width:391px;
+    height:37px;
+    border: none;
+    margin-left: 50px;
+}
+
+.weatherApp{
+    background-color:white;
+    width:493px;
+    height:308px;
+    margin-left:450px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-top:100px
+
+
+}
+.or-block{
+    display: flex;
+    color:#004346;
+    margin-left:130px;
+    margin-bottom:5px;
+}
+
+.or-txt{
+    color:#004346;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+*{
+    margin: 0;
+}
+
