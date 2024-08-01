@@ -60,8 +60,13 @@
     justify-content: center;}
 .location-txt{
     color:white;
-    padding-right:40px
+    padding-right:40px;
+    padding-left:15px
 }
+.location-logo{
+    padding-top: 18px;
+}
+
 
 .weather-img{
     padding-left: 160px;
@@ -76,8 +81,27 @@
     margin-bottom: 30px;
 }
 .temp-info{
-    color:white;
+    color:#EAEAEA;
+    padding-left:10px;
+    margin-top:-7px;
 }
 .hum-info{
-    color:white;
+    color:#EAEAEA;
+    padding-left:10px;
+    margin-top:-7px;
 }
+
+.temp-logo{
+    padding-left:75px;
+    padding-top:20px;
+}
+.hum-logo{
+    padding-left:75px;
+    padding-top:20px;
+}
+
+.footer-img{
+    position:absolute;
+    left:0;
+}
+
